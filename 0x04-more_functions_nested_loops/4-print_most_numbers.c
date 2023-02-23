@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_numbers - looping and skipping 2 and 4
+ * print_most_numbers - looping and skipping 2 and 4
  *
  * Return: success
  */
-void print_numbers(void)
+void print_ most_numbers(void)
 {
 	int a;
 
