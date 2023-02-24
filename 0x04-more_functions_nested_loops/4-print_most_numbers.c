@@ -2,7 +2,7 @@
 /**
  * print_most_numbers - looping and omitting base 2 and 4
  *
- * Return: success
+ * Retuen: success
  */
 void print_ most_numbers(void)
 {
