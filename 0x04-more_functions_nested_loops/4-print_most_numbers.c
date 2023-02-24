@@ -1,7 +1,6 @@
 #include "main.h"
-
 /**
- * print_most_numbers - looping and omiting base 2 and 4
+ * print_most_numbers - looping and omitting base 2 and 4
  *
  * Return: success
  */
